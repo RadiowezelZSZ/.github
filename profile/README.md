@@ -1,4 +1,5 @@
-# 🎵 RadiowezelZSZ - Music For Students, By Students
+# 
+# $${\color{#6625cb}RadiowezelZSZ: \space \color{#ea8ff6} For \space Students, \space \color{#ea8ff6}By \space Students}$$
 
 Welcome to RadiowezelZSZ, where we're revolutionizing how music brings your school community together! We believe that great moments at school deserve a great soundtrack, and who better to create that soundtrack than the students themselves?
 
@@ -6,11 +7,8 @@ Welcome to RadiowezelZSZ, where we're revolutionizing how music brings your scho
 Remember those moments between classes when the hallways come alive with energy? We wanted to make those moments even more special by letting students become their own DJs. RadiowezelZSZ isn't just another music app – it's a platform that gives students a voice in creating their school's atmosphere.
 
 ## ✨ Features That Make Us Unique
-- ✅ Your School, Your Sound – Influence the music played in your school
-- ✅ Vote in Real-Time – Participate in a democratic song selection system
-- ✅ Easy Access – Secure & simple 4-digit authentication
-- ✅ AI-Powered Content Filtering – Ensures school-friendly music
-- ✅ Automated Moderation – Keeps inappropriate content out
+![Voting](Voting.png)
+![Youtube_integration](Youtube.png)
 
 ### 🎧 For Students, By Students
 - Create your school's unique atmosphere through music
