@@ -6,10 +6,6 @@ Welcome to RadiowezelZSZ, where we're revolutionizing how music brings your scho
 ## 💫 Our Vision
 Remember those moments between classes when the hallways come alive with energy? We wanted to make those moments even more special by letting students become their own DJs. RadiowezelZSZ isn't just another music app – it's a platform that gives students a voice in creating their school's atmosphere.
 
-## ✨ Features That Make Us Unique
-![Voting](Voting.png)
-![Youtube_integration](Youtube.png)
-
 ### 🎧 For Students, By Students
 - Create your school's unique atmosphere through music
 - Democratic song selection system
