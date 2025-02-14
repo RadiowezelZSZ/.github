@@ -38,7 +38,7 @@ We're a group of high school friends who bonded over our shared love for technol
 
 ### 🔧 Backend
 - ⚡ .NET | Core Services
-- 📦 MySQL | Data Storage
+- 📦 PostgreSQL | Data Storage
 - 🐍 Python | Music Control & Data Processing
 
 ### 🔗 APIs & Services
