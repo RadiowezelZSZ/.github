@@ -1,10 +1,10 @@
 # 
-# $${\color{#6625cb}RadiowezelZSZ: \space \color{#ea8ff6} For \space Students, \space \color{#ea8ff6}By \space Students}$$
+# $${\color{#6625cb}SoundWave: \space \color{#ea8ff6} For \space Students, \space \color{#ea8ff6}By \space Students}$$
 
-Welcome to RadiowezelZSZ, where we're revolutionizing how music brings your school community together! We believe that great moments at school deserve a great soundtrack, and who better to create that soundtrack than the students themselves?
+Welcome to SoundWave, where we're revolutionizing how music brings your school community together! We believe that great moments at school deserve a great soundtrack, and who better to create that soundtrack than the students themselves?
 
 ## 💫 Our Vision
-Remember those moments between classes when the hallways come alive with energy? We wanted to make those moments even more special by letting students become their own DJs. RadiowezelZSZ isn't just another music app – it's a platform that gives students a voice in creating their school's atmosphere.
+Remember those moments between classes when the hallways come alive with energy? We wanted to make those moments even more special by letting students become their own DJs. SoundWave isn't just another music app – it's a platform that gives students a voice in creating their school's atmosphere.
 
 ### 🎧 For Students, By Students
 - Create your school's unique atmosphere through music
